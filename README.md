@@ -1,3 +1,5 @@
+## Простой CRUD-контроллер используя JsonApi.
+
 ## Install
 <ul>
 <li>git clone https://github.com/NikitaPoplavskiy/JsonApi.git</li>
